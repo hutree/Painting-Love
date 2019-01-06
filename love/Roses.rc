@@ -1,0 +1,90 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+ROSES                   ICON    DISCARDABLE     "rose.ico"
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+BM_I0                   BITMAP  DISCARDABLE     "BM_I0.bmp"
+BM_I1                   BITMAP  DISCARDABLE     "BM_I1.bmp"
+BM_I2                   BITMAP  DISCARDABLE     "BM_I2.bmp"
+BM_I3                   BITMAP  DISCARDABLE     "BM_I3.bmp"
+BM_I4                   BITMAP  DISCARDABLE     "BM_I4.bmp"
+BM_I5                   BITMAP  DISCARDABLE     "BM_I5.bmp"
+BM_M0                   BITMAP  DISCARDABLE     "BM_M0.bmp"
+BM_M1                   BITMAP  DISCARDABLE     "BM_M1.bmp"
+BM_M2                   BITMAP  DISCARDABLE     "BM_M2.bmp"
+BM_M3                   BITMAP  DISCARDABLE     "BM_M3.bmp"
+BM_M4                   BITMAP  DISCARDABLE     "BM_M4.bmp"
+BM_M5                   BITMAP  DISCARDABLE     "BM_M5.bmp"
+#endif    // Chinese (中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
